@@ -13,7 +13,7 @@ with source_data as (
 
     select 1 as id,'satish' col     
     union all
-    select null as id 'kumar' col
+    select null as id, 'kumar' col
 
 )
 
